@@ -1,0 +1,30 @@
+
+
+.parrafo {
+
+font-size: 20px;
+color: rgb(81, 111, 119);
+font-family: 'Architects Daughter', cursive;
+
+}
+.titulo1 {
+
+color: brown;
+font-family: 'Architects Daughter', cursive;
+
+}
+
+.footer {
+
+    background: #8f6969;
+    padding: 4rem 0;
+    text-align: center;
+    margin-top: 6rem;
+    
+    }
+     
+   .container {
+
+ text-align: center;
+
+   }

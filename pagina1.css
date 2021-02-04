@@ -1,0 +1,22 @@
+.titulo {
+
+    text-align: top;
+    color: brown;
+    }
+    
+ .parrafo {
+
+     font-size: 20px;
+    color: rgb(81, 111, 119);
+    font-family: 'Architects Daughter', cursive;
+ }   
+.container {
+
+text-align: center;
+
+    background-color: #ffdd90;
+    background-image: url("mi-imagen.jpg");
+  
+ }    
+
+ 
